@@ -1,3 +1,4 @@
 *.zip
+UCI HAR Dataset
 .DS_Store
 .Rhistory
