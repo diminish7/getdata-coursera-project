@@ -68,4 +68,4 @@ of the included features for each combination of subject and activity.
 
 ## Output
 
-The final result is output in CSV format to ```./averages.csv```.
+The final result is output in CSV format to ```./averages.txt```.

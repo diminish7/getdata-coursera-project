@@ -8,12 +8,12 @@ etc. Details of the study can be found
 [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 The data were downloaded on May 25th at approximately 3:45 PM MDT to create
-the ```averages.csv``` file contained in this repo.
+the ```averages.txt``` file contained in this repo.
 
 ## Variables
 
 Per the [project instructions](https://class.coursera.org/getdata-003/human_grading/view/courses/972136/assessments/3/submissions),
-the ```averages.csv``` file contains only fields for the subject, label and the
+the ```averages.txt``` file contains only fields for the subject, label and the
 features for means and standard deviations, or the fields containing ```-mean()```
 or ```-std()```.  The following is a list of all variables included in the output:
 
