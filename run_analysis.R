@@ -10,7 +10,7 @@ source("average_data.R")
 RunAnalysis <- function() {
   DownloadData()
   dataset <- AverageData(MergeData())
-  write.table(dataset, "./averages.csv", sep=",", quote=FALSE)
+  write.table(dataset, "./averages.csv", sep=",", row.names=FALSE, quote=FALSE)
 }
 
 RunAnalysis()
